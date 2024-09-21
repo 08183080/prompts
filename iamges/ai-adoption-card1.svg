@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <rect width="600" height="400" fill="#f0f8ff"/>
+  <text x="300" y="50" font-family="Arial, sans-serif" font-size="24" fill="#2e8b57" text-anchor="middle">黑话专家</text>
+  
+  <text x="30" y="100" font-family="Arial, sans-serif" font-size="16" fill="#333">
+    <tspan x="30" dy="1.2em">原始表述:</tspan>
+    <tspan x="30" dy="1.2em">先让大家都把 AI 用起来</tspan>
+  </text>
+  
+  <text x="30" y="180" font-family="Arial, sans-serif" font-size="16" fill="#333">
+    <tspan x="30" dy="1.2em">专业表述:</tspan>
+    <tspan x="30" dy="1.2em">推动全员AI赋能，构建智能化生态闭环，</tspan>
+    <tspan x="30" dy="1.2em">打造数智化转型新引擎，实现降本增效的</tspan>
+    <tspan x="30" dy="1.2em">全链路升级</tspan>
+  </text>
+</svg>
